@@ -1,0 +1,379 @@
+{
+ "_total": 13, 
+ "values": [
+  {
+   "firstName": "Andres", 
+   "headline": "Graduate Student & Research Assistant- Biomedical Engineering Department (FIU)", 
+   "lastName": "Pena", 
+   "industry": "Medical Devices", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=160510095&authType=name&authToken=TY8G&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_xxsvAvXFo1ku2fkjxJW6A9QLHt3DufLjgjmoAcFqclzjPw-g1MEMxBPV6VT-fHXAYyZwOKM5gA7u", 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "Miami/Fort Lauderdale Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/caUViKDW9K", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:TY8G"
+      }
+     ]
+    }
+   }, 
+   "id": "caUViKDW9K"
+  }, 
+  {
+   "firstName": "Silvia", 
+   "headline": "Marketing & Communications at Procolombia", 
+   "lastName": "Morales", 
+   "industry": "Public Relations and Communications", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=84972739&authType=name&authToken=36wB&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_HAcsUHh27bmLpxduEBXWUwXT73edYpZuEriLUw6AKXy4TZ72kcFnzIt0T7HcjRM8d-zkN2ZSdd5X", 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "Miami/Fort Lauderdale Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/ME__ws0UMp", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:36wB"
+      }
+     ]
+    }
+   }, 
+   "id": "ME__ws0UMp"
+  }, 
+  {
+   "firstName": "Rodd", 
+   "headline": "Luxury Realtor Top Producer at EWM Realty International", 
+   "lastName": "Sheradsky, PA", 
+   "industry": "Real Estate", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=110614647&authType=name&authToken=fWeC&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_R7Vm6_ENv7UxE3uzRudj63Z5cSOaECjzJmaA6heqHeo0v6ovBWoCe8pVJiYrd5pJVu4Kdb927ECj", 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "Miami/Fort Lauderdale Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/nQfz0XGwoY", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:fWeC"
+      }
+     ]
+    }
+   }, 
+   "id": "nQfz0XGwoY"
+  }, 
+  {
+   "firstName": "Juan Andres", 
+   "headline": "Engineering Professional", 
+   "lastName": "Benatuil Wulff", 
+   "industry": "Management Consulting", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=100969802&authType=name&authToken=lYMw&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_zVbmGh8ZPj4O2Ar9c4njGCKHAy0Aucl9cRPAGC1ZaMIhPPQnMpBCuGbn0-xffrKVqJ5KDL3RTQj1", 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "Miami/Fort Lauderdale Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/NGw4ZXIyDW", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:lYMw"
+      }
+     ]
+    }
+   }, 
+   "id": "NGw4ZXIyDW"
+  }, 
+  {
+   "firstName": "Rakesh", 
+   "headline": "Computer & Electrical Engineer", 
+   "lastName": "Reddy", 
+   "industry": "Consumer Electronics", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=52867578&authType=name&authToken=tEBh&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_mVxsCOFLHxnXCSXc2gj5CgbVoyAkhaqcuZwLCgz5zMLv0EiBGp7n2jTwX-ls_dzR7JgkSVboENu0", 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "Miami/Fort Lauderdale Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/m5zZcLs04Y", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:tEBh"
+      }
+     ]
+    }
+   }, 
+   "id": "m5zZcLs04Y"
+  }, 
+  {
+   "firstName": "Malissa", 
+   "headline": "Computer Engineering Student at Florida Atlantic University", 
+   "lastName": "Augustin", 
+   "industry": "Computer Software", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=104986237&authType=name&authToken=urgq&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_tlYgplGtUtK-P6c_tcgmp-hOJqzxPhn_K1EGp-_i6c37ukTiOBmlttcDcyv8rFB7Pty_1vgDago2", 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "Miami/Fort Lauderdale Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/rWyPw1wlVI", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:urgq"
+      }
+     ]
+    }
+   }, 
+   "id": "rWyPw1wlVI"
+  }, 
+  {
+   "firstName": "Ravi", 
+   "headline": "Professor and Director at Florida Atlantic University", 
+   "lastName": "Shankar", 
+   "industry": "Higher Education", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=12973604&authType=name&authToken=TZud&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_upscWJL5du9suowd2U4HWs6wd2Xou7wdmYmeWsLq9frVPIyWhVERFVlVFkkzfeELS0ZdQjU10oak", 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "West Palm Beach, Florida Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/Lf5Kb1btQh", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:TZud"
+      }
+     ]
+    }
+   }, 
+   "id": "Lf5Kb1btQh"
+  }, 
+  {
+   "firstName": "Annie", 
+   "headline": "clerk at Up-shine Lighting limited", 
+   "lastName": "Wang", 
+   "industry": "Mechanical or Industrial Engineering", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=277990054&authType=name&authToken=Bfuy&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_vf7Lf3YRLgjgLePXvWmVfCjsbVspbeGXcHUsfCDoZ0mDZ2zkJdxdTGMXWNVGX7iHN2SRhLxNs47H", 
+   "location": {
+    "country": {
+     "code": "cn"
+    }, 
+    "name": "China"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/j5_wh2aBb0", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:Bfuy"
+      }
+     ]
+    }
+   }, 
+   "id": "j5_wh2aBb0"
+  }, 
+  {
+   "firstName": "Eric", 
+   "headline": "Design Engineer", 
+   "lastName": "Deleuze", 
+   "industry": "Design", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=379942284&authType=name&authToken=wLN7&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_yHCbizVJ_s585pTZYe_Zin0ViMTT5VhZYun4in4dpyvKsYc4ratwS9uFDc3x6j3NgI8M2AECDdDE", 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "Miami/Fort Lauderdale Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/TW5pkJnQg3", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:wLN7"
+      }
+     ]
+    }
+   }, 
+   "id": "TW5pkJnQg3"
+  }, 
+  {
+   "firstName": "Melissa", 
+   "headline": "Computer Science Major at FAU", 
+   "lastName": "Serrano", 
+   "industry": "Computer Software", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=284926868&authType=name&authToken=Ziv7&trk=api*a4057084*s4122704*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_mbFan0UiKhQeznut2hBgnyomtGAkJnytu81lngMYSFLv6-w-GTcG4jDKyulsslgY7kLrMVb8Q-ev", 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "West Palm Beach, Florida Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/uiOQI6vJ2S", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:Ziv7"
+      }
+     ]
+    }
+   }, 
+   "id": "uiOQI6vJ2S"
+  }, 
+  {
+   "firstName": "Kevin", 
+   "headline": "Computer Engineer at CaraFlow", 
+   "lastName": "Medina", 
+   "industry": "Computer Software", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=398987360&authType=name&authToken=vMPY&trk=api*a4057084*s4122704*"
+   }, 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "Greater Milwaukee Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/BYpgHt1iNs", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:vMPY"
+      }
+     ]
+    }
+   }, 
+   "id": "BYpgHt1iNs"
+  }, 
+  {
+   "firstName": "Debra", 
+   "headline": "Master's student in CS at FAU", 
+   "lastName": "Lewis", 
+   "industry": "Computer Software", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=45681306&authType=name&authToken=PBU4&trk=api*a4057084*s4122704*"
+   }, 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "West Palm Beach, Florida Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/KyoBoS5bC-", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:PBU4"
+      }
+     ]
+    }
+   }, 
+   "id": "KyoBoS5bC-"
+  }, 
+  {
+   "firstName": "cbaechle", 
+   "headline": "none at none", 
+   "lastName": "fau", 
+   "industry": "Accounting", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=397377077&authType=name&authToken=aDfn&trk=api*a4057084*s4122704*"
+   }, 
+   "location": {
+    "country": {
+     "code": "us"
+    }, 
+    "name": "Albany, New York Area"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/cDDzrrxUS6", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:aDfn"
+      }
+     ]
+    }
+   }, 
+   "id": "cDDzrrxUS6"
+  }
+ ]
+}
